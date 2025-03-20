@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aug56
+- 👋 Hi, I’m MICOMYIZA Augustave from Rwanda
 - 👀 I’m interested in developing systems and games.
 - 🌱 I’m currently learning Information and Technology(IT) in university 
 - 💞️ I’m looking to collaborate on system development project
